@@ -43,6 +43,6 @@ main
 ```
 
 ---
-*** Created By:*** NakuTenshi
+***Created By:*** NakuTenshi
 
 
